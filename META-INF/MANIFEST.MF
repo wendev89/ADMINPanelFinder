@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/main.xml
+SHA1-Digest: Hd2CKSB4ebGw1NIfqFuDhBQqX54=
+
+Name: AndroidManifest.xml
+SHA1-Digest: ChMO/KXi86aKEa6C4C+L4ENR0Dw=
+
+Name: res/layout/iceriklist.xml
+SHA1-Digest: q6/JamO15YdbcRA9lfu69SHkvsg=
+
+Name: res/drawable-hdpi-v4/logo2.png
+SHA1-Digest: tOMh9wB66oEkjHafGQigxWBq5b4=
+
+Name: res/menu/web_view_activity.xml
+SHA1-Digest: HPR3VVWBPdYhZjkmLFVOsvg2LLo=
+
+Name: resources.arsc
+SHA1-Digest: fk1kxdlnFacw/6IZhBjgcTjAp2E=
+
+Name: res/menu/activity_my_web_view.xml
+SHA1-Digest: HPR3VVWBPdYhZjkmLFVOsvg2LLo=
+
+Name: res/layout/web_view_activity.xml
+SHA1-Digest: MSZirUho8YsEQzPYXE8qiGqAzOg=
+
+Name: res/layout/search.xml
+SHA1-Digest: uE0AlS4o1v3ZE2Y2Hw/WFCDpvYY=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: CCCDKrNWs/CbJPZSq0nsmFghcoo=
+
+Name: classes.dex
+SHA1-Digest: NutMKKEJHQv625VWxo/o68M5MKI=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: CCCDKrNWs/CbJPZSq0nsmFghcoo=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: CCCDKrNWs/CbJPZSq0nsmFghcoo=
+
